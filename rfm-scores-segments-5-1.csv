@@ -1,4 +1,4 @@
-﻿Score;Segment;Index
+Score;Segment;Index
 555;Champions;1
 554;Champions;1
 553;Potential Loyalist;3
@@ -6,7 +6,7 @@
 551;Potential Loyalist;3
 545;Champions;1
 544;Champions;1
-543;Potential Loyalist;3
+543;Loyal;2
 542;Potential Loyalist;3
 541;Potential Loyalist;3
 535;Need Attention;6
@@ -30,11 +30,11 @@
 452;Potential Loyalist;3
 451;Potential Loyalist;3
 445;Champions;1
-444;Potential Loyalist;3
+444;Loyal;2
 443;Need Attention;6
 442;Potential Loyalist;3
 441;Potential Loyalist;3
-435;Potential Loyalist;3
+435;Loyal;2
 434;Need Attention;6
 433;Potential Loyalist;3
 432;Potential Loyalist;3
@@ -49,17 +49,17 @@
 413;Promising;5
 412;New Customers;4
 411;New Customers;4
-355;Potential Loyalist;3
-354;Potential Loyalist;3
+355;Loyal;2
+354;Loyal;2
 353;Potential Loyalist;3
 352;Potential Loyalist;3
 351;Potential Loyalist;3
-345;Potential Loyalist;3
-344;Potential Loyalist;3
+345;Loyal;2
+344;Loyal;2
 343;Need Attention;6
 342;Potential Loyalist;3
 341;Potential Loyalist;3
-335;Potential Loyalist;3
+335;Loyal;2
 334;Need Attention;6
 333;Potential Loyalist;3
 332;Hibernating customers;10
